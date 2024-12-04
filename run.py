@@ -68,5 +68,3 @@ if __name__ == '__main__':
     else:
         dp.include_router(main_router)
         main()
-
-#Начало
